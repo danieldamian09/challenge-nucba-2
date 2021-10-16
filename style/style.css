@@ -88,3 +88,42 @@ body {
   font-weight: 500;
   text-align: right;
 }
+
+.terms{
+  display: flex;
+  justify-content: center;
+  width: 226px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 500;
+  margin: 0px 0px 30px 60px;
+}
+
+input{
+  width: 28px;
+  height: 28px;
+  margin-right: 9px;
+}
+
+.line{
+  width: 340px;
+  margin: 0px auto 23px;
+  border: 1px solid #E4E6F6;
+  height: 2px;
+}
+
+button{
+  display: block;
+  margin: 0px auto 60px;
+  width: 340px;
+  height: 69px;
+  border: 1px solid #E4E6F6;
+  background: #fff;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+  line-height: 28px;
+}
+
+
+
